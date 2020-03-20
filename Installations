@@ -1,0 +1,4 @@
+>shell-$ pip install SpeechRecognition. 
+>shell-$ pip install python3-pyaudio.
+>>>shell> pip install pyttsx3 
+>>>shell>pip install gTTS  
